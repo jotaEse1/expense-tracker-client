@@ -1,6 +1,6 @@
 export const URLS = {
-    LOGIN: '/api/autentication/login',
-    REGISTER: '/api/autentication/signin',
-    SEARCH: '/api/v1/search',
-    CREATE: '/api/v1/create'
+    LOGIN: 'https://expense-tracker-server-1e8g.onrender.com/api/autentication/login',
+    REGISTER: 'https://expense-tracker-server-1e8g.onrender.com/api/autentication/signin',
+    SEARCH: 'https://expense-tracker-server-1e8g.onrender.com/api/v1/search',
+    CREATE: 'https://expense-tracker-server-1e8g.onrender.com/api/v1/create'
 }
